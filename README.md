@@ -19,4 +19,4 @@ cmake --build .
 Запустить тесты:
 ```
 ctest
-```
+```# Bmstu.string
