@@ -20,3 +20,4 @@ cmake --build .
 ```
 ctest
 ```# Bmstu.string
+# Bmstu.string
